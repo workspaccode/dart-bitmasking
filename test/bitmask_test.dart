@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:bitmasking/bitmask.dart';
+import 'package:bitmasking/bitmasking.dart';
 
 enum _Maskbits { zero, one, two, three, four }
 

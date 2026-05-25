@@ -18,7 +18,7 @@ A Dart package providing a `Bitmask` class for efficient bit-level operations.
 ## Usage
 
 ```dart
-import 'package:bitmasking/bitmask.dart';
+import 'package:bitmasking/bitmasking.dart';
 
 void main() {
   // Create a 6-bit mask with bits 0, 2, 3 set (value 13)
