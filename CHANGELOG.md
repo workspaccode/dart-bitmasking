@@ -1,3 +1,7 @@
+## 2.0.1
+
+- Rename `lib/bitmask.dart` → `lib/bitmasking.dart` to match package name
+
 ## 2.0.0
 
 - Initial release as `bitmasking` package
